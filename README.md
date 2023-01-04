@@ -1,2 +1,3 @@
 # KEEPER_APP
-Created with CodeSandbox
+This is a Keeper App to keep notes.
+
